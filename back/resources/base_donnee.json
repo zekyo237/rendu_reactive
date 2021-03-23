@@ -1,0 +1,43 @@
+{
+    "Utilisateur1": [
+        {
+            "id": 1,
+            "username": "Scott",
+            "password": "Nebraska"
+        },
+        {
+            "id": 2,
+            "username": "chienne",
+            "password": "$2b$12$BADO/EnFG3Pgxxh6isf18.MKjn0zRNP4yzOFlyBTf1m1ph4dww.6O"
+        },
+        {
+            "id": 3,
+            "username": "vianney",
+            "password": "$2b$12$BlBpKrYxpi0dx0j4P4HjPeWLZ5srXg/qRr2220kL.sCtnSTC/7zN6"
+        },
+        {
+            "id": 6,
+            "username": "zepeck",
+            "password": "$2b$12$6//84/7ZQ0PlXlS9OCOsyunvceuPOOSRa5Ruizwgv84Od1vItRFu."
+        },
+        {
+            "id": 7,
+            "username": "soldat de l hiver",
+            "password": "$2b$12$YGrMzu2fEpNJBPtUThaUW.yXY1Yz0l4Z/ea4wsBZxujpzpE2lwXhC"
+        }
+    ],
+    "Utilisateur2": [
+        {
+            "id": 4,
+            "username": "Scott",
+            "password": "Nebraska"
+        }
+    ],
+    "Utilisateur3": [
+        {
+            "id": 5,
+            "username": "Scott",
+            "password": "Nebraska"
+        }
+    ]
+}
